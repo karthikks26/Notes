@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgimg {
+  background-image: url("./assets/istockphoto-485497746-612x612.jpg");
+  opacity: 0.9;
+}
